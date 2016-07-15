@@ -1,0 +1,25 @@
+{
+  "name": "FringeTree",
+  "authors": [
+    "bartlomiejmatlega <bartlomiej.matlega95@gmail.com>"
+  ],
+  "description": "MVC Small And Powerfull Framework",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "cropper": "~0.10.1",
+    "jquery-confirm": "~2.5.0",
+    "lightbox2": "~2.8.1",
+    "noty": "~2.3.5",
+    "lity": "~1.4.2"
+  }
+}

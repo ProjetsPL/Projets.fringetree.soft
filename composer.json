@@ -1,0 +1,14 @@
+{
+    "name": "barmat/barmat",
+    "authors": [
+        {
+            "name": "bartlomiejmatlega",
+            "email": "bartlomiej.matlega95@gmail.com"
+        }
+    ],
+    "require": {
+      "mthaml/mthaml": "1.7.1",
+      "gabordemooij/redbean": "dev-master",
+        "samayo/bulletproof": "2.0.*"
+    }
+}
