@@ -1,10 +1,13 @@
 # FringeTree PHP Framework
-** Based on MVC architecture **
+**Based on MVC architecture small and powerfull framework for little projets**
 
 # Installation
 1. Install composer dependences:
-> composer install
+
+>composer install
+
 2. Install bower dependences:
-> bower install
+
+>bower install
 
 Enjoy!
