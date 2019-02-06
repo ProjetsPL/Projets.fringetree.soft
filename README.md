@@ -1,3 +1,5 @@
+## DEPRECATED!
+
 # FringeTree PHP Framework
 **Based on MVC architecture small and powerfull framework for little projets**
 
